@@ -1,0 +1,19 @@
+name: BugRequest
+main: pro.mcmogaming.bugrequest.bugrequest
+version: 1.0.0
+commands:
+   bugsend: 
+      description: This sends your bug request book to the admins
+      usage:
+   bugbook: 
+      description: This gives you a bug request book
+      usage:      
+   bugreportclear: 
+      description: This clears all bugreports
+      usage:            
+   bugreport: 
+      description: Gives you a book with all the bugs
+      usage:      
+   getcpuspecs: 
+      description: Tells you the computers specs
+      usage:            
